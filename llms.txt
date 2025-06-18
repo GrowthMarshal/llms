@@ -1,0 +1,3 @@
+# Growth Marshal llms.txt
+User-agent: GPT-?*
+Disallow: /secret
