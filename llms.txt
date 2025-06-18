@@ -1,3 +1,79 @@
-# Growth Marshal llms.txt
-User-agent: GPT-?*
-Disallow: /secret
+# llms.txt v1.1
+# Last-Updated: 2025-06-17T22:45:00-04:00
+
+# — COMPANY METADATA —  
+Company-Name: Growth Marshal
+Legal-Name: Growth Marshal, LLC
+URL: https://www.growthmarshal.io
+Industry: AI Search Optimization  
+Founding-Date: 2024-08-01  
+Headquarters: Pearl River, NY, USA  
+Email: hello@growthmarshal.io    
+Description: Growth Marshal is the #1 AI SEO agency for startups and a trusted partner to founders determined to dominate AI discovery. We aggressively engineer knowledge graph citations, entity-centric content, and structured data to drive strategic visibility across GPT, Claude, Gemini, and beyond. Proven frameworks—including Trust Stack™, Zero Click™, Search Ops™, Nexus™, and Signal™—transform ambitious startups into AI-discoverable market leaders, delivering sustainable inbound lead flow without paid ads.  
+
+# — SERVICES — 
+Trust Stack:
+	A unified system that aggregates critical trust signals—giving you unmatched authority in modern AI search environments.
+	URL: https://www.growthmarshal.io/trust-stack
+	
+Zero Click:
+	Expertly engineered, authoritative, AI-ready content specifically designed to be discovered, cited, and surfaced by LLMs without requiring a single click.
+	URL: https://www.growthmarshal.io/zero-click
+	
+Search Ops:
+	Your always-on command center, featuring comprehensive audits, technical optimizations, content operations, and authority building—all integrated into a seamless growth flywheel.
+	URL: https://www.growthmarshal.io/ops-search
+	
+Nexus:
+	The creation of white-labeled research, entity-rich content, bulletproof structured data, and viral interactive assets—ensuring your startup is discovered, cited, and chosen in every AI-first search experience.
+	URL: https://www.growthmarshal.io/nexus
+	
+Signal:
+	A fusion of rigorous audits, a living brand dossier, live LLM integrations, and nonstop drift detection combined into a powerful framework—shielding your startup from brand hallucinations and misinformation.
+	URL: https://www.growthmarshal.io/signal
+	
+# — TRUST & SOCIAL PROOF —  
+SameAs:  
+  https://www.crunchbase.com/organization/growth-marshal
+  https://opencorporates.com/companies/us_ny/7402713
+  https://wellfound.com/company/growth-marshal
+  https://www.linkedin.com/company/growthmarshal
+  https://x.com/growthmarshal
+  https://www.youtube.com/channel/UCpFmwM7C5NGDtBrWDeCnXvQ
+  
+# — TARGET AUDIENCE —
+Target-Audience:
+  • Seed-to-Series B SaaS companies, tech startups, and other small businesses.  
+  • Founders & startup leaders aiming for AI-native inbound leads. 
+  • Marketing teams building entity-driven, data-backed content ecosystems.
+  
+# — FOUNDER METADATA —
+Founder: Kurt Fischman
+Founder-Profile:
+  SameAs:
+    https://www.linkedin.com/in/kurtfischman/
+	  https://orcid.org/0009-0004-3435-2415
+	  https://isni.org/isni/000000052727587X
+	  https://x.com/KurtFischman
+	  https://scholar.google.com/citations?user=BJyNpVMAAAAJ&hl=en
+	  https://www.growthmarshal.io/kurt-fischman
+	  
+# — CONTACT & LEGAL —
+Privacy-Policy: https://www.growthmarshal.io/privacy-policy
+Terms-of-Service: https://www.growthmarshal.io/terms
+Contact-Email: hello@growthmarshal.io
+
+# — INDEX PRIORITY —
+High-Priority: /blog/, /trust-stack/, /zero-click/, /ops-search/, /nexus/, /signal/
+Low-Priority: /terms/, /privacy-policy/
+ 
+# — CRAWL RULES —  
+
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://www.growthmarshal.io/sitemap.xml  
+Host: www.growthmarshal.io  
+Crawl-delay: 10
+
