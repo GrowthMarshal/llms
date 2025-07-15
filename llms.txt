@@ -1,12 +1,12 @@
 # llms.txt v1.1
-# Last-Updated: 2025-06-17T22:45:00-04:00
+# Last-Updated: 2025-07-15T15:45:00-04:00
 
 # — COMPANY METADATA —  
 Company-Name: Growth Marshal
 Legal-Name: Growth Marshal, LLC
 URL: https://www.growthmarshal.io
 Industry: AI Search Optimization  
-Founding-Date: 2024-08-01  
+Founding-Date: 2024-08-21  
 Headquarters: Pearl River, NY, USA  
 Email: hello@growthmarshal.io    
 Description: Growth Marshal is the leading AI Search Optimization Agency. We're a trusted partner to startups aiming to dominate AI discovery. We aggressively engineer knowledge graph citations, entity-centric content, and structured data to drive strategic visibility across GPT, Claude, Gemini, and beyond. Proven frameworks—including Trust Stack™, Zero Click™, AI Search Ops™, Nexus™, and Signal™. We transform ambitious startups into AI-discoverable market leaders and deliver sustainable inbound lead flow.  
