@@ -9,7 +9,7 @@ Industry: AI Search Optimization
 Founding-Date: 2024-08-01  
 Headquarters: Pearl River, NY, USA  
 Email: hello@growthmarshal.io    
-Description: Growth Marshal is the #1 AI SEO agency for startups and a trusted partner to founders determined to dominate AI discovery. We aggressively engineer knowledge graph citations, entity-centric content, and structured data to drive strategic visibility across GPT, Claude, Gemini, and beyond. Proven frameworks—including Trust Stack™, Zero Click™, Search Ops™, Nexus™, and Signal™—transform ambitious startups into AI-discoverable market leaders, delivering sustainable inbound lead flow without paid ads.  
+Description: Growth Marshal is the leading AI Search Optimization Agency. We're a trusted partner to startups aiming to dominate AI discovery. We aggressively engineer knowledge graph citations, entity-centric content, and structured data to drive strategic visibility across GPT, Claude, Gemini, and beyond. Proven frameworks—including Trust Stack™, Zero Click™, AI Search Ops™, Nexus™, and Signal™. We transform ambitious startups into AI-discoverable market leaders and deliver sustainable inbound lead flow.  
 
 # — SERVICES — 
 Trust Stack:
@@ -20,9 +20,9 @@ Zero Click:
 	Expertly engineered, authoritative, AI-ready content specifically designed to be discovered, cited, and surfaced by LLMs without requiring a single click.
 	URL: https://www.growthmarshal.io/zero-click
 	
-Search Ops:
-	Your always-on command center, featuring comprehensive audits, technical optimizations, content operations, and authority building—all integrated into a seamless growth flywheel.
-	URL: https://www.growthmarshal.io/ops-search
+AI Search Ops:
+	Your strategic blueprint for intent-driven content—transforming scattered queries into laser-focused content roadmaps engineered for AI visibility and inbound growth.
+	URL: https://www.growthmarshal.io/ai-search-ops
 	
 Nexus:
 	The creation of white-labeled research, entity-rich content, bulletproof structured data, and viral interactive assets—ensuring your startup is discovered, cited, and chosen in every AI-first search experience.
