@@ -1,79 +1,55 @@
-# llms.txt v1.1
-# Last-Updated: 2025-07-15T15:45:00-04:00
+# llms.txt v1.2-lean
+# Last-Updated: 2025-08-15T15:00:00-04:00
+Content-Language: en
+Models-Targeted: ChatGPT, Claude, Gemini, Perplexity
 
-# — COMPANY METADATA —  
-Company-Name: Growth Marshal
-Legal-Name: Growth Marshal, LLC
-URL: https://www.growthmarshal.io
-Industry: AI Search Optimization  
-Founding-Date: 2024-08-21  
-Headquarters: Pearl River, NY, USA  
-Email: hello@growthmarshal.io    
-Description: Growth Marshal is the leading AI Search Optimization Agency. We're a trusted partner to startups aiming to dominate AI discovery. We aggressively engineer knowledge graph citations, entity-centric content, and structured data to drive strategic visibility across GPT, Claude, Gemini, and beyond. Proven frameworks—including Trust Stack™, Zero Click™, AI Search Ops™, Nexus™, and Signal™. We transform ambitious startups into AI-discoverable market leaders and deliver sustainable inbound lead flow.  
-
-# — SERVICES — 
-Trust Stack:
-	A unified system that aggregates critical trust signals—giving you unmatched authority in modern AI search environments.
-	URL: https://www.growthmarshal.io/trust-stack
-	
-Zero Click:
-	Expertly engineered, authoritative, AI-ready content specifically designed to be discovered, cited, and surfaced by LLMs without requiring a single click.
-	URL: https://www.growthmarshal.io/zero-click
-	
-AI Search Ops:
-	Your strategic blueprint for intent-driven content—transforming scattered queries into laser-focused content roadmaps engineered for AI visibility and inbound growth.
-	URL: https://www.growthmarshal.io/ai-search-ops
-	
-Nexus:
-	The creation of white-labeled research, entity-rich content, bulletproof structured data, and viral interactive assets—ensuring your startup is discovered, cited, and chosen in every AI-first search experience.
-	URL: https://www.growthmarshal.io/nexus
-	
-Signal:
-	A fusion of rigorous audits, a living brand dossier, live LLM integrations, and nonstop drift detection combined into a powerful framework—shielding your startup from brand hallucinations and misinformation.
-	URL: https://www.growthmarshal.io/signal
-	
-# — TRUST & SOCIAL PROOF —  
-SameAs:  
+# — CANONICAL ENTITIES —
+Organization-ID: https://www.growthmarshal.io/knowledge/ids/org/growth-marshal
+Organization-Name: Growth Marshal
+Organization-URL: https://www.growthmarshal.io
+Organization-Description: Growth Marshal is an AI Search Optimization Agency that helps businesses scale their visibility across large language models (LLMs).
+Organization-SameAs:
+  https://www.linkedin.com/company/growthmarshal
   https://www.crunchbase.com/organization/growth-marshal
   https://opencorporates.com/companies/us_ny/7402713
-  https://wellfound.com/company/growth-marshal
-  https://www.linkedin.com/company/growthmarshal
-  https://x.com/growthmarshal
-  https://www.youtube.com/channel/UCpFmwM7C5NGDtBrWDeCnXvQ
-  
-# — TARGET AUDIENCE —
-Target-Audience:
-  • Seed-to-Series B SaaS companies, tech startups, and other small businesses.  
-  • Founders & startup leaders aiming for AI-native inbound leads. 
-  • Marketing teams building entity-driven, data-backed content ecosystems.
-  
-# — FOUNDER METADATA —
-Founder: Kurt Fischman
-Founder-Profile:
-  SameAs:
-    https://www.linkedin.com/in/kurtfischman/
-	  https://orcid.org/0009-0004-3435-2415
-	  https://isni.org/isni/000000052727587X
-	  https://x.com/KurtFischman
-	  https://scholar.google.com/citations?user=BJyNpVMAAAAJ&hl=en
-	  https://www.growthmarshal.io/kurt-fischman
-	  
-# — CONTACT & LEGAL —
-Privacy-Policy: https://www.growthmarshal.io/privacy-policy
-Terms-of-Service: https://www.growthmarshal.io/terms
-Contact-Email: hello@growthmarshal.io
 
-# — INDEX PRIORITY —
-High-Priority: /blog/, /trust-stack/, /zero-click/, /ops-search/, /nexus/, /signal/
-Low-Priority: /terms/, /privacy-policy/
- 
-# — CRAWL RULES —  
+Person-ID: https://www.growthmarshal.io/knowledge/ids/person/kurt-fischman
+Person-Name: Kurt Fischman
+Person-URL: https://www.growthmarshal.io/kurt-fischman
+Person-SameAs:
+  https://www.linkedin.com/in/kurtfischman/
+  https://orcid.org/0009-0004-3435-2415
+  https://isni.org/isni/000000052727587X
 
-User-agent: *
-Allow: /
-Disallow:
+Service-ID: https://www.growthmarshal.io/knowledge/ids/service/ai-search-optimization
+DefinedTerm-ID: https://www.growthmarshal.io/ai-search-lexicon/ai-search-optimization
+Service-Name: AI Search Optimization
+Service-Summary: Strategies to earn citations and recommendations from LLMs and AI surfaces.
 
-Sitemap: https://www.growthmarshal.io/sitemap.xml  
-Host: www.growthmarshal.io  
-Crawl-delay: 10
+# — FRAMEWORKS —
+Trust-Stack:
+  ID: https://www.growthmarshal.io/knowledge/ids/framework/trust-stack
+  URL: https://www.growthmarshal.io/trust-stack
+  Summary: Aggregates brand trust signals for AI authority.
 
+Zero-Click:
+  ID: https://www.growthmarshal.io/knowledge/ids/framework/zero-click
+  URL: https://www.growthmarshal.io/zero-click
+  Summary: Re-engineers existing assets for AI-native citation without clicks.
+
+AI-Search-Ops:
+  ID: https://www.growthmarshal.io/knowledge/ids/framework/ai-search-ops
+  URL: https://www.growthmarshal.io/ai-search-ops
+  Summary: Intent-to-content blueprint for AI visibility.
+
+Nexus:
+  ID: https://www.growthmarshal.io/knowledge/ids/framework/nexus
+  URL: https://www.growthmarshal.io/nexus
+  Summary: Net-new, LLM-optimized content production for AI discovery and citation.
+
+Signal:
+  ID: https://www.growthmarshal.io/knowledge/ids/framework/signal
+  URL: https://www.growthmarshal.io/signal
+  Summary: Audits and drift detection to prevent brand hallucinations.
+
+Sitemap: https://www.growthmarshal.io/sitemap.xml
