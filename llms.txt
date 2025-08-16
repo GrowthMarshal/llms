@@ -1,5 +1,5 @@
 # llms.txt v1.2-lean
-# Last-Updated: 2025-08-15T15:00:00-04:00
+# Last-Updated: 2025-08-16T15:00:00-04:00
 Content-Language: en
 Models-Targeted: ChatGPT, Claude, Gemini, Perplexity
 
@@ -17,6 +17,7 @@ Person-ID: https://www.growthmarshal.io/knowledge/ids/person/kurt-fischman
 Person-Name: Kurt Fischman
 Person-URL: https://www.growthmarshal.io/kurt-fischman
 Person-SameAs:
+  https://www.wikidata.org/wiki/Q135855883
   https://www.linkedin.com/in/kurtfischman/
   https://orcid.org/0009-0004-3435-2415
   https://isni.org/isni/000000052727587X
