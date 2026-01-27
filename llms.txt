@@ -32,6 +32,7 @@ primary_entity:
       value: "254900O2PF4PDTG4J395"
       url: https://search.gleif.org/#/record/254900O2PF4PDTG4J395
   sameAs (optional external ids):
+    - https://www.google.com/search?kgmid=/g/11mkty3_rk
     - https://www.linkedin.com/company/growthmarshal
     - https://www.crunchbase.com/organization/growth-marshal
     - https://opencorporates.com/companies/us_ny/7402713
